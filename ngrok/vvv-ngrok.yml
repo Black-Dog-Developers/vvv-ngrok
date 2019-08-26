@@ -1,0 +1,7 @@
+authtoken: UPDATE ME
+tunnels:
+  inspect:
+    proto: http
+    addr: 4040
+    inspect: false
+    auth: "vvv-ngrok:secret"
