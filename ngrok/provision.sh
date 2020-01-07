@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo "Installing up ngrok"
+echo "Installing ngrok"
 
 # Install GMP
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip --quiet --output-document=/tmp/ngrok.zip
